@@ -1,0 +1,11 @@
+ID,Review,Sentiment
+1,"I love this product. It is amazing and useful.",Positive
+2,"The service was excellent. Very happy with it.",Positive
+3,"This is the worst experience I ever had.",Negative
+4,"The product is not good. Waste of money.",Negative
+5,"The movie was okay, nothing special.",Neutral
+6,"The delivery was fast and the quality is great.",Positive
+7,"I hate this application. It crashes frequently.",Negative
+8,"The food was average.",Neutral
+9,"Customer support solved my issue quickly.",Positive
+10,"Very disappointed with the purchase.",Negative
